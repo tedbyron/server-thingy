@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 publish = false
+
+[features]
+
+[dependencies]
+num_cpus = "1.13.1"
